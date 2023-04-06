@@ -1,0 +1,21 @@
+{
+  "name": "random-str-msg-el",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgardoLuisJimenez/random-str-msg-el"
+  },
+  "keywords": [],
+  "author": "Edgardo Luis <edgardotecno@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/EdgardoLuisJimenez/random-str-msg-el",
+  "bin": {
+    "random-str-msg-el": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
